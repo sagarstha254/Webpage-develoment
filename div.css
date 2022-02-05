@@ -1,0 +1,84 @@
+
+.Header {
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         color: black;
+         font-size: 42px;
+         margin: 5% 0% -5.5% 3%;
+        }
+
+.Home {
+         background-color: #04AA6D;
+         color: white;
+         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         font-size: 18px;
+         float: left;
+         margin: 3% 0% 0% 3%;
+         padding: 8px 19px;
+         border: 1px solid;
+         border-radius: 5px;
+        }
+
+.Next {
+         background-color: #04AA6D;
+         color: white;
+         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         font-size: 18px;
+         float: right;
+         margin: 3% 35.5% 40% 0%;
+         padding: 8px 19px;
+         border: 1px solid;
+         border-radius: 5px;
+        }
+
+.Body {
+         background-color: #D9EEE1;
+         padding:2.5%;
+         padding-left:4%;
+         margin: 11% 35.5% 0% -1%;
+         font-size: 15px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         height: 37%;
+        }
+
+.Study {
+         background-color: #04AA6D;
+         color: white;
+         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         font-size: 18px;
+         float: left;
+         margin: 1% 0% 40px 0%;
+         padding: 8px 19px;
+         border: 1px 50px solid;
+         border-radius: 5px;
+         border: none;
+        }
+
+.Video {
+          background-color: black;
+          color: white;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          font-size: 18px;
+         float:left;
+         margin: 9% 0% 0% -40%;
+         padding: 8px 19px;
+         border:none;
+         border-radius: 5px;
+        }
+
+a {
+     text-decoration: none;
+     color:white;
+    }
+
+.md {
+     background-color: #FFF4A3;
+     color: black;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 14px;
+     float: left;
+     border-radius: 25px;
+     padding: 4px 16px;
+     position: absolute;
+     margin: 4.5% 5% 5% -2%;
+     transform: rotate(-25deg);
+    }
